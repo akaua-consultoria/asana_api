@@ -16,6 +16,6 @@ setup(
     packages=find_packages(),
 		install_requires=[
         'pandas',
-        'asana'
+        'asana==3.2.1'
     ],
 )
